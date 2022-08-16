@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.com.juanregala.Runners.segundoFlujoRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="SQAMED-SQA2040" time="0.0">
+  <properties/>
+  <system-out><![CDATA[
+5 Scenarios (?[33m5 undefined?[0m)
+15 Steps (?[33m5 undefined?[0m, ?[32m10 passed?[0m)
+2m2,817s
+
+
+You can implement missing steps with the snippets below:
+
+
+@Then("^valido que el regaloFlores$")
+public void validoQueElRegaloFlores() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^valido que el regaloAncheta$")
+public void validoQueElRegaloAncheta() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^valido que el regaloDesayuno$")
+public void validoQueElRegaloDesayuno() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^valido que el regaloMamá$")
+public void validoQueElRegaloMamá() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^valido que el regaloCena romantica$")
+public void validoQueElRegaloCenaRomantica() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: segundo flujo busqueda de regalos
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: busqueda de regaloFlores
+-------------------------------------------------------------------(segundo-flujo-busqueda-de-regalos;busqueda-de-regaloflores)
+]]></system-err>
+</testsuite>

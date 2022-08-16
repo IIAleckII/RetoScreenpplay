@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Primer flujo tres busquedas por background","Buscar regalos","SUCCESS","2022-08-16T00:50:46.643-05:00[America/Bogota]","0.0","57.89"
+"segundo flujo busqueda de regalos","busqueda de regaloFlores","PENDING","2022-08-16T00:51:55.606-05:00[America/Bogota]","0.0","122.67"
+"Clickear en diferentes productos","Buscar regalos para profesor","SUCCESS","2022-08-16T00:54:01.681-05:00[America/Bogota]","0.0","25.9"
+"tercer flujo busqueda por excel","Busqueda","SUCCESS","2022-08-16T00:54:28.665-05:00[America/Bogota]","0.0","43.27"
